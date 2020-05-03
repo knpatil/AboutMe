@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Kamlakar Patil</string>
+    <string name="yellow_star">Yellow</string>
+    <string name="bio">Hi, My name is Kamlakar.
+\n\nI love Cricket. It is my favorite sport.
+\n\nFun fact is that I play Cricket with my kids almost everyday.
+\n\nI like reading new books and listening to music.
+\n\nI am learning new musical instrument these days, which is Guitar.
+\n\nOn the professional front, I am a software developer. I work at a software company.
+\n\nI also know how to make Android apps. I will be happy to teach you Kotlin programming
+language to create fantastic Android applications.
+\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nick name?</string>
+    <string name="done">Done</string>
+</resources>
